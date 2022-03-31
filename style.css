@@ -1,0 +1,76 @@
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: slategrey;
+  color: white;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif; 
+    
+}
+
+button {
+  padding: 12px;
+  border-radius: 8px;
+  
+  
+}
+
+#gameButtonArea > button {
+  width:100px;
+  height:100px;
+  margin:4px;
+}
+
+.hidden {
+  display: none;
+}
+#button1 {
+    background: lightgreen;
+}
+#button1:active, #button1.lit{
+  background: green;
+}
+#button2 {
+    background: lightblue;
+}
+#button2:active, #button2.lit{
+    background: blue;
+}
+#button3 {
+    background: pink;
+  
+}
+#button3:active, #button3.lit{
+    background: red;
+
+}
+#button4 {
+    background: lightyellow;
+}
+
+#button4:active, #button4.lit{
+    background: yellow;
+}
+
+
+function lightButton(btn){
+  document.getElementById("button"+btn).classList.add("lit")
+}
+function clearButton(btn){
+  document.getElementById("button"+btn).classList.remove("lit")
+}
+
+
+
+
+
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
