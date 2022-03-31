@@ -39,9 +39,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+Random Sequence
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/91567348/160967718-b2e3a9ff-74d3-49cb-8460-3879f7112103.gif)
-![](gif2-link-here)
-![](gif3-link-here)
+Winning the Game
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/91567348/160968377-4d0dcc02-35ae-416d-9409-07b2911b5bd8.gif)
+Losing the Game
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/91567348/160968822-c20eba6a-83c7-4ff6-aed3-d98b9344b4e0.gif)
 ![](gif4-link-here)
 
 ## Reflection Questions
