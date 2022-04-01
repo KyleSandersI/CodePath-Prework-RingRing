@@ -68,8 +68,8 @@ Having found out about the CodePath application soon before the deadline for the
 
 
 ## Interview Recording URL Link
-
-[My 5-minute Interview Recording](your-link-here)
+Unlisted Video Link: Kyle Sanders
+https://youtu.be/-aadHSnWR_k
 
 
 ## License
